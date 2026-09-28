@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "id": "aria",
+      "label": "Aria",
+      "desc": "Soft, warm American female",
+      "voice": "en-US-AriaNeural",
+      "rate": "-24%",
+      "pitch": "-4%",
+      "bytes": 607824,
+      "clips": {
+        "inhale": [
+          "voice/aria/inhale-0.mp3",
+          "voice/aria/inhale-1.mp3",
+          "voice/aria/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/aria/inhale2-0.mp3",
+          "voice/aria/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/aria/hold-0.mp3",
+          "voice/aria/hold-1.mp3",
+          "voice/aria/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/aria/exhale-0.mp3",
+          "voice/aria/exhale-1.mp3",
+          "voice/aria/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/aria/rest-0.mp3",
+          "voice/aria/rest-1.mp3",
+          "voice/aria/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/aria/welcome-0.mp3",
+          "voice/aria/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/aria/begin-0.mp3",
+          "voice/aria/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/aria/settle-0.mp3",
+          "voice/aria/settle-1.mp3",
+          "voice/aria/settle-2.mp3"
+        ],
+        "end": [
+          "voice/aria/end-0.mp3",
+          "voice/aria/end-1.mp3"
+        ],
+        "one": [
+          "voice/aria/one-0.mp3"
+        ],
+        "two": [
+          "voice/aria/two-0.mp3"
+        ],
+        "three": [
+          "voice/aria/three-0.mp3"
+        ],
+        "four": [
+          "voice/aria/four-0.mp3"
+        ],
+        "five": [
+          "voice/aria/five-0.mp3"
+        ],
+        "six": [
+          "voice/aria/six-0.mp3"
+        ],
+        "seven": [
+          "voice/aria/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/aria/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/aria/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/aria/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "guy",
+      "label": "Guy",
+      "desc": "Deep, grounded American male",
+      "voice": "en-US-GuyNeural",
+      "rate": "-22%",
+      "pitch": "-10%",
+      "bytes": 594288,
+      "clips": {
+        "inhale": [
+          "voice/guy/inhale-0.mp3",
+          "voice/guy/inhale-1.mp3",
+          "voice/guy/inhale-2.mp3"
+        ],
+        "hold": [
+          "voice/guy/hold-0.mp3",
+          "voice/guy/hold-1.mp3",
+          "voice/guy/hold-2.mp3"
+        ],
+        "inhale2": [
+          "voice/guy/inhale2-0.mp3",
+          "voice/guy/inhale2-1.mp3"
+        ],
+        "exhale": [
+          "voice/guy/exhale-0.mp3",
+          "voice/guy/exhale-1.mp3",
+          "voice/guy/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/guy/rest-0.mp3",
+          "voice/guy/rest-1.mp3",
+          "voice/guy/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/guy/welcome-0.mp3",
+          "voice/guy/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/guy/begin-0.mp3",
+          "voice/guy/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/guy/settle-0.mp3",
+          "voice/guy/settle-1.mp3",
+          "voice/guy/settle-2.mp3"
+        ],
+        "end": [
+          "voice/guy/end-0.mp3",
+          "voice/guy/end-1.mp3"
+        ],
+        "one": [
+          "voice/guy/one-0.mp3"
+        ],
+        "two": [
+          "voice/guy/two-0.mp3"
+        ],
+        "three": [
+          "voice/guy/three-0.mp3"
+        ],
+        "four": [
+          "voice/guy/four-0.mp3"
+        ],
+        "five": [
+          "voice/guy/five-0.mp3"
+        ],
+        "six": [
+          "voice/guy/six-0.mp3"
+        ],
+        "seven": [
+          "voice/guy/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/guy/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/guy/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/guy/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "natasha",
+      "label": "Natasha",
+      "desc": "Airy Australian female",
+      "voice": "en-AU-NatashaNeural",
+      "rate": "-22%",
+      "pitch": "-4%",
+      "bytes": 587952,
+      "clips": {
+        "inhale": [
+          "voice/natasha/inhale-0.mp3",
+          "voice/natasha/inhale-1.mp3",
+          "voice/natasha/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/natasha/inhale2-0.mp3",
+          "voice/natasha/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/natasha/hold-0.mp3",
+          "voice/natasha/hold-1.mp3",
+          "voice/natasha/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/natasha/exhale-0.mp3",
+          "voice/natasha/exhale-1.mp3",
+          "voice/natasha/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/natasha/rest-0.mp3",
+          "voice/natasha/rest-1.mp3",
+          "voice/natasha/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/natasha/welcome-0.mp3",
+          "voice/natasha/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/natasha/begin-0.mp3",
+          "voice/natasha/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/natasha/settle-0.mp3",
+          "voice/natasha/settle-1.mp3",
+          "voice/natasha/settle-2.mp3"
+        ],
+        "end": [
+          "voice/natasha/end-0.mp3",
+          "voice/natasha/end-1.mp3"
+        ],
+        "one": [
+          "voice/natasha/one-0.mp3"
+        ],
+        "two": [
+          "voice/natasha/two-0.mp3"
+        ],
+        "three": [
+          "voice/natasha/three-0.mp3"
+        ],
+        "four": [
+          "voice/natasha/four-0.mp3"
+        ],
+        "six": [
+          "voice/natasha/six-0.mp3"
+        ],
+        "five": [
+          "voice/natasha/five-0.mp3"
+        ],
+        "seven": [
+          "voice/natasha/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/natasha/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/natasha/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/natasha/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "neerja",
+      "label": "Neerja",
+      "desc": "Serene Indian English female",
+      "voice": "en-IN-NeerjaNeural",
+      "rate": "-22%",
+      "pitch": "-2%",
+      "bytes": 612864,
+      "clips": {
+        "inhale": [
+          "voice/neerja/inhale-0.mp3",
+          "voice/neerja/inhale-1.mp3",
+          "voice/neerja/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/neerja/inhale2-0.mp3",
+          "voice/neerja/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/neerja/hold-0.mp3",
+          "voice/neerja/hold-1.mp3",
+          "voice/neerja/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/neerja/exhale-0.mp3",
+          "voice/neerja/exhale-1.mp3",
+          "voice/neerja/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/neerja/rest-0.mp3",
+          "voice/neerja/rest-1.mp3",
+          "voice/neerja/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/neerja/welcome-0.mp3",
+          "voice/neerja/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/neerja/begin-0.mp3",
+          "voice/neerja/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/neerja/settle-0.mp3",
+          "voice/neerja/settle-1.mp3",
+          "voice/neerja/settle-2.mp3"
+        ],
+        "end": [
+          "voice/neerja/end-0.mp3",
+          "voice/neerja/end-1.mp3"
+        ],
+        "one": [
+          "voice/neerja/one-0.mp3"
+        ],
+        "two": [
+          "voice/neerja/two-0.mp3"
+        ],
+        "three": [
+          "voice/neerja/three-0.mp3"
+        ],
+        "four": [
+          "voice/neerja/four-0.mp3"
+        ],
+        "six": [
+          "voice/neerja/six-0.mp3"
+        ],
+        "five": [
+          "voice/neerja/five-0.mp3"
+        ],
+        "seven": [
+          "voice/neerja/seven-0.mp3"
+        ],
+        "nine": [
+          "voice/neerja/nine-0.mp3"
+        ],
+        "eight": [
+          "voice/neerja/eight-0.mp3"
+        ],
+        "ten": [
+          "voice/neerja/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "ryan",
+      "label": "Ryan",
+      "desc": "Calm British male",
+      "voice": "en-GB-RyanNeural",
+      "rate": "-22%",
+      "pitch": "-8%",
+      "bytes": 581616,
+      "clips": {
+        "inhale": [
+          "voice/ryan/inhale-0.mp3",
+          "voice/ryan/inhale-1.mp3",
+          "voice/ryan/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/ryan/inhale2-0.mp3",
+          "voice/ryan/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/ryan/hold-0.mp3",
+          "voice/ryan/hold-1.mp3",
+          "voice/ryan/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/ryan/exhale-0.mp3",
+          "voice/ryan/exhale-1.mp3",
+          "voice/ryan/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/ryan/rest-0.mp3",
+          "voice/ryan/rest-1.mp3",
+          "voice/ryan/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/ryan/welcome-0.mp3",
+          "voice/ryan/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/ryan/begin-0.mp3",
+          "voice/ryan/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/ryan/settle-0.mp3",
+          "voice/ryan/settle-1.mp3",
+          "voice/ryan/settle-2.mp3"
+        ],
+        "end": [
+          "voice/ryan/end-0.mp3",
+          "voice/ryan/end-1.mp3"
+        ],
+        "one": [
+          "voice/ryan/one-0.mp3"
+        ],
+        "two": [
+          "voice/ryan/two-0.mp3"
+        ],
+        "three": [
+          "voice/ryan/three-0.mp3"
+        ],
+        "four": [
+          "voice/ryan/four-0.mp3"
+        ],
+        "five": [
+          "voice/ryan/five-0.mp3"
+        ],
+        "six": [
+          "voice/ryan/six-0.mp3"
+        ],
+        "seven": [
+          "voice/ryan/seven-0.mp3"
+        ],
+        "nine": [
+          "voice/ryan/nine-0.mp3"
+        ],
+        "eight": [
+          "voice/ryan/eight-0.mp3"
+        ],
+        "ten": [
+          "voice/ryan/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "sonia",
+      "label": "Sonia",
+      "desc": "Gentle British female",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-22%",
+      "pitch": "-3%",
+      "bytes": 507312,
+      "clips": {
+        "inhale": [
+          "voice/sonia/inhale-0.mp3",
+          "voice/sonia/inhale-1.mp3",
+          "voice/sonia/inhale-2.mp3"
+        ],
+        "hold": [
+          "voice/sonia/hold-0.mp3",
+          "voice/sonia/hold-1.mp3",
+          "voice/sonia/hold-2.mp3"
+        ],
+        "inhale2": [
+          "voice/sonia/inhale2-0.mp3",
+          "voice/sonia/inhale2-1.mp3"
+        ],
+        "exhale": [
+          "voice/sonia/exhale-0.mp3",
+          "voice/sonia/exhale-1.mp3",
+          "voice/sonia/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/sonia/rest-0.mp3",
+          "voice/sonia/rest-1.mp3",
+          "voice/sonia/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/sonia/welcome-0.mp3",
+          "voice/sonia/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/sonia/begin-0.mp3",
+          "voice/sonia/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/sonia/settle-0.mp3",
+          "voice/sonia/settle-1.mp3",
+          "voice/sonia/settle-2.mp3"
+        ],
+        "end": [
+          "voice/sonia/end-0.mp3",
+          "voice/sonia/end-1.mp3"
+        ],
+        "one": [
+          "voice/sonia/one-0.mp3"
+        ],
+        "two": [
+          "voice/sonia/two-0.mp3"
+        ],
+        "three": [
+          "voice/sonia/three-0.mp3"
+        ],
+        "five": [
+          "voice/sonia/five-0.mp3"
+        ],
+        "four": [
+          "voice/sonia/four-0.mp3"
+        ],
+        "six": [
+          "voice/sonia/six-0.mp3"
+        ],
+        "seven": [
+          "voice/sonia/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/sonia/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/sonia/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/sonia/ten-0.mp3"
+        ]
+      }
+    }
+  ],
+  "ambience": []
+}
