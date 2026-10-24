@@ -84,6 +84,227 @@
       }
     },
     {
+      "id": "arjun",
+      "label": "Arjun",
+      "desc": "Calm, steady Indian English male",
+      "engine": "piper",
+      "piper": {
+        "model": "en_US-arctic-medium",
+        "speaker": 3,
+        "noise": 0.5,
+        "noiseW": 0.6
+      },
+      "rate": "-13%",
+      "bytes": 439475,
+      "clips": {
+        "inhale": [
+          "voice/arjun/inhale-0.mp3",
+          "voice/arjun/inhale-1.mp3",
+          "voice/arjun/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/arjun/inhale2-0.mp3",
+          "voice/arjun/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/arjun/hold-0.mp3",
+          "voice/arjun/hold-1.mp3",
+          "voice/arjun/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/arjun/exhale-0.mp3",
+          "voice/arjun/exhale-1.mp3",
+          "voice/arjun/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/arjun/rest-0.mp3",
+          "voice/arjun/rest-1.mp3",
+          "voice/arjun/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/arjun/welcome-0.mp3",
+          "voice/arjun/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/arjun/begin-0.mp3",
+          "voice/arjun/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/arjun/settle-0.mp3",
+          "voice/arjun/settle-1.mp3",
+          "voice/arjun/settle-2.mp3"
+        ],
+        "end": [
+          "voice/arjun/end-0.mp3",
+          "voice/arjun/end-1.mp3"
+        ],
+        "how_inhale_nose": [
+          "voice/arjun/how_inhale_nose-0.mp3"
+        ],
+        "how_inhale2": [
+          "voice/arjun/how_inhale2-0.mp3"
+        ],
+        "how_inhale_deep": [
+          "voice/arjun/how_inhale_deep-0.mp3"
+        ],
+        "how_hold_full": [
+          "voice/arjun/how_hold_full-0.mp3"
+        ],
+        "how_exhale_mouth": [
+          "voice/arjun/how_exhale_mouth-0.mp3"
+        ],
+        "how_exhale_nose": [
+          "voice/arjun/how_exhale_nose-0.mp3"
+        ],
+        "how_exhale_sigh": [
+          "voice/arjun/how_exhale_sigh-0.mp3"
+        ],
+        "two": [
+          "voice/arjun/two-0.mp3"
+        ],
+        "one": [
+          "voice/arjun/one-0.mp3"
+        ],
+        "how_rest_empty": [
+          "voice/arjun/how_rest_empty-0.mp3"
+        ],
+        "four": [
+          "voice/arjun/four-0.mp3"
+        ],
+        "three": [
+          "voice/arjun/three-0.mp3"
+        ],
+        "five": [
+          "voice/arjun/five-0.mp3"
+        ],
+        "six": [
+          "voice/arjun/six-0.mp3"
+        ],
+        "seven": [
+          "voice/arjun/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/arjun/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/arjun/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/arjun/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "cori",
+      "label": "Cori",
+      "desc": "Warm British female",
+      "engine": "piper",
+      "piper": {
+        "model": "en_GB-cori-high",
+        "noise": 0.5,
+        "noiseW": 0.6
+      },
+      "rate": "-12%",
+      "bytes": 473951,
+      "clips": {
+        "inhale": [
+          "voice/cori/inhale-0.mp3",
+          "voice/cori/inhale-1.mp3",
+          "voice/cori/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/cori/inhale2-0.mp3",
+          "voice/cori/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/cori/hold-0.mp3",
+          "voice/cori/hold-1.mp3",
+          "voice/cori/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/cori/exhale-0.mp3",
+          "voice/cori/exhale-1.mp3",
+          "voice/cori/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/cori/rest-0.mp3",
+          "voice/cori/rest-1.mp3",
+          "voice/cori/rest-2.mp3"
+        ],
+        "begin": [
+          "voice/cori/begin-0.mp3",
+          "voice/cori/begin-1.mp3"
+        ],
+        "welcome": [
+          "voice/cori/welcome-0.mp3",
+          "voice/cori/welcome-1.mp3"
+        ],
+        "settle": [
+          "voice/cori/settle-0.mp3",
+          "voice/cori/settle-1.mp3",
+          "voice/cori/settle-2.mp3"
+        ],
+        "end": [
+          "voice/cori/end-0.mp3",
+          "voice/cori/end-1.mp3"
+        ],
+        "how_inhale_nose": [
+          "voice/cori/how_inhale_nose-0.mp3"
+        ],
+        "how_inhale2": [
+          "voice/cori/how_inhale2-0.mp3"
+        ],
+        "how_inhale_deep": [
+          "voice/cori/how_inhale_deep-0.mp3"
+        ],
+        "how_hold_full": [
+          "voice/cori/how_hold_full-0.mp3"
+        ],
+        "how_exhale_nose": [
+          "voice/cori/how_exhale_nose-0.mp3"
+        ],
+        "how_exhale_mouth": [
+          "voice/cori/how_exhale_mouth-0.mp3"
+        ],
+        "how_exhale_sigh": [
+          "voice/cori/how_exhale_sigh-0.mp3"
+        ],
+        "how_rest_empty": [
+          "voice/cori/how_rest_empty-0.mp3"
+        ],
+        "one": [
+          "voice/cori/one-0.mp3"
+        ],
+        "two": [
+          "voice/cori/two-0.mp3"
+        ],
+        "three": [
+          "voice/cori/three-0.mp3"
+        ],
+        "four": [
+          "voice/cori/four-0.mp3"
+        ],
+        "five": [
+          "voice/cori/five-0.mp3"
+        ],
+        "six": [
+          "voice/cori/six-0.mp3"
+        ],
+        "seven": [
+          "voice/cori/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/cori/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/cori/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/cori/ten-0.mp3"
+        ]
+      }
+    },
+    {
       "id": "guy",
       "label": "Guy",
       "desc": "Deep, grounded American male",
@@ -162,6 +383,227 @@
         ],
         "ten": [
           "voice/guy/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "kristin",
+      "label": "Kristin",
+      "desc": "Soft, unhurried American female",
+      "engine": "piper",
+      "piper": {
+        "model": "en_US-kristin-medium",
+        "noise": 0.5,
+        "noiseW": 0.6
+      },
+      "rate": "-12%",
+      "bytes": 547308,
+      "clips": {
+        "inhale": [
+          "voice/kristin/inhale-0.mp3",
+          "voice/kristin/inhale-1.mp3",
+          "voice/kristin/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/kristin/inhale2-0.mp3",
+          "voice/kristin/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/kristin/hold-0.mp3",
+          "voice/kristin/hold-1.mp3",
+          "voice/kristin/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/kristin/exhale-0.mp3",
+          "voice/kristin/exhale-1.mp3",
+          "voice/kristin/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/kristin/rest-0.mp3",
+          "voice/kristin/rest-1.mp3",
+          "voice/kristin/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/kristin/welcome-0.mp3",
+          "voice/kristin/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/kristin/begin-0.mp3",
+          "voice/kristin/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/kristin/settle-0.mp3",
+          "voice/kristin/settle-1.mp3",
+          "voice/kristin/settle-2.mp3"
+        ],
+        "end": [
+          "voice/kristin/end-0.mp3",
+          "voice/kristin/end-1.mp3"
+        ],
+        "how_inhale_nose": [
+          "voice/kristin/how_inhale_nose-0.mp3"
+        ],
+        "how_inhale_deep": [
+          "voice/kristin/how_inhale_deep-0.mp3"
+        ],
+        "how_inhale2": [
+          "voice/kristin/how_inhale2-0.mp3"
+        ],
+        "how_hold_full": [
+          "voice/kristin/how_hold_full-0.mp3"
+        ],
+        "how_exhale_nose": [
+          "voice/kristin/how_exhale_nose-0.mp3"
+        ],
+        "how_exhale_mouth": [
+          "voice/kristin/how_exhale_mouth-0.mp3"
+        ],
+        "how_exhale_sigh": [
+          "voice/kristin/how_exhale_sigh-0.mp3"
+        ],
+        "how_rest_empty": [
+          "voice/kristin/how_rest_empty-0.mp3"
+        ],
+        "one": [
+          "voice/kristin/one-0.mp3"
+        ],
+        "two": [
+          "voice/kristin/two-0.mp3"
+        ],
+        "three": [
+          "voice/kristin/three-0.mp3"
+        ],
+        "five": [
+          "voice/kristin/five-0.mp3"
+        ],
+        "four": [
+          "voice/kristin/four-0.mp3"
+        ],
+        "six": [
+          "voice/kristin/six-0.mp3"
+        ],
+        "nine": [
+          "voice/kristin/nine-0.mp3"
+        ],
+        "eight": [
+          "voice/kristin/eight-0.mp3"
+        ],
+        "seven": [
+          "voice/kristin/seven-0.mp3"
+        ],
+        "ten": [
+          "voice/kristin/ten-0.mp3"
+        ]
+      }
+    },
+    {
+      "id": "meera",
+      "label": "Meera",
+      "desc": "Gentle Indian English female",
+      "engine": "piper",
+      "piper": {
+        "model": "en_US-arctic-medium",
+        "speaker": 15,
+        "noise": 0.5,
+        "noiseW": 0.6
+      },
+      "rate": "-13%",
+      "bytes": 443392,
+      "clips": {
+        "inhale": [
+          "voice/meera/inhale-0.mp3",
+          "voice/meera/inhale-1.mp3",
+          "voice/meera/inhale-2.mp3"
+        ],
+        "inhale2": [
+          "voice/meera/inhale2-0.mp3",
+          "voice/meera/inhale2-1.mp3"
+        ],
+        "hold": [
+          "voice/meera/hold-0.mp3",
+          "voice/meera/hold-1.mp3",
+          "voice/meera/hold-2.mp3"
+        ],
+        "exhale": [
+          "voice/meera/exhale-0.mp3",
+          "voice/meera/exhale-1.mp3",
+          "voice/meera/exhale-2.mp3"
+        ],
+        "rest": [
+          "voice/meera/rest-0.mp3",
+          "voice/meera/rest-1.mp3",
+          "voice/meera/rest-2.mp3"
+        ],
+        "welcome": [
+          "voice/meera/welcome-0.mp3",
+          "voice/meera/welcome-1.mp3"
+        ],
+        "begin": [
+          "voice/meera/begin-0.mp3",
+          "voice/meera/begin-1.mp3"
+        ],
+        "settle": [
+          "voice/meera/settle-0.mp3",
+          "voice/meera/settle-1.mp3",
+          "voice/meera/settle-2.mp3"
+        ],
+        "end": [
+          "voice/meera/end-0.mp3",
+          "voice/meera/end-1.mp3"
+        ],
+        "how_inhale_nose": [
+          "voice/meera/how_inhale_nose-0.mp3"
+        ],
+        "how_inhale_deep": [
+          "voice/meera/how_inhale_deep-0.mp3"
+        ],
+        "how_inhale2": [
+          "voice/meera/how_inhale2-0.mp3"
+        ],
+        "how_hold_full": [
+          "voice/meera/how_hold_full-0.mp3"
+        ],
+        "how_exhale_nose": [
+          "voice/meera/how_exhale_nose-0.mp3"
+        ],
+        "how_rest_empty": [
+          "voice/meera/how_rest_empty-0.mp3"
+        ],
+        "how_exhale_sigh": [
+          "voice/meera/how_exhale_sigh-0.mp3"
+        ],
+        "how_exhale_mouth": [
+          "voice/meera/how_exhale_mouth-0.mp3"
+        ],
+        "two": [
+          "voice/meera/two-0.mp3"
+        ],
+        "three": [
+          "voice/meera/three-0.mp3"
+        ],
+        "one": [
+          "voice/meera/one-0.mp3"
+        ],
+        "six": [
+          "voice/meera/six-0.mp3"
+        ],
+        "four": [
+          "voice/meera/four-0.mp3"
+        ],
+        "five": [
+          "voice/meera/five-0.mp3"
+        ],
+        "seven": [
+          "voice/meera/seven-0.mp3"
+        ],
+        "eight": [
+          "voice/meera/eight-0.mp3"
+        ],
+        "nine": [
+          "voice/meera/nine-0.mp3"
+        ],
+        "ten": [
+          "voice/meera/ten-0.mp3"
         ]
       }
     },
